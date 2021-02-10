@@ -74,12 +74,11 @@ a:focus,
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
-	color: #2B96CC;
-	text-decoration: none;
+	color: #61a61d;
 }
 a,
 button {
-	color: #1696e7;
+	color: #61a61d;
 	outline: medium none;
 }
 button:focus,input:focus,input:focus,textarea,textarea:focus{outline: 0}
@@ -3237,7 +3236,7 @@ ul.minicart .cart-price .new {
 .project-item-meta ul li.tag a {
 	font-size: 14px;
 	text-transform: capitalize;
-	color: #929191;
+	color: #777676;
 	font-weight: 500;
 	letter-spacing: 0;
 }
