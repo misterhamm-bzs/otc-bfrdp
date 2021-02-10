@@ -42,7 +42,7 @@
 	font-style: normal;
 	color: #7d7d7d;
 }
-.img {
+.img, img {
 	max-width: 100%;
 	transition: all 0.3s ease-out 0s;
 }
@@ -136,10 +136,10 @@ li {
 	list-style: none
 }
 p {
-	font-size: 14px;
-	font-weight: 500;
+	font-size: 18px;
+	font-weight: normal;
 	line-height: 28px;
-	color: #7d7d7d;
+	color: #666666;
 	margin-bottom: 15px;
 }
 hr {
