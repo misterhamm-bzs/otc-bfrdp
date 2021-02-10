@@ -1455,6 +1455,7 @@ ul.minicart .cart-price .new {
 }
 .features-thumb img {
 	border-radius: 50%;
+	max-width: 100%;
 }
 .features-overlay {
 	position: absolute;
