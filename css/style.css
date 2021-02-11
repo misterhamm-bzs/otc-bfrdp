@@ -4631,9 +4631,22 @@ ul.minicart .cart-price .new {
 }
 
 
+.staff-member {
+	display: flex;
+}
 
+.staff-image {
+	padding-right: 30px;
+	max-width: 225px;
+}
 
+.staff-list-item span {
+	color: #61a61d;
+}
 
-
-
+.staff-list-item {
+	border-bottom: 1px solid #e7e7e7;
+	margin-bottom: 60px;
+	padding-bottom: 60px;
+}
 
