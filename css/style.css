@@ -4650,3 +4650,42 @@ ul.minicart .cart-price .new {
 	padding-bottom: 60px;
 }
 
+.blog-post-horizontal {
+	display: flex;
+	margin-bottom: 30px;
+}
+
+.blog-post-horizontal h4 a {
+	font-size: 24px;
+}
+.blog-post-horizontal p {
+	font-size: 16px;
+}
+
+.breadcrumb-area-simple {
+		background-color: #e7e7e7;
+		padding-top: 150px;
+		padding-bottom: 50px;
+		position: relative;
+}
+
+.breadcrumb-area-simple .breadcrumb-content {
+	text-align: left;
+}
+
+.resource-article {
+	padding-top: 200px;
+}
+
+.resource-pdf {
+	display: inline-block;
+    font-size: 16px;
+    top: -40px;
+    position: absolute;
+	right: 0;
+}
+
+.resource-pdf.bottom {
+	top: auto;
+	bottom: 0;
+}
